@@ -9,10 +9,12 @@ The computer "guesses" an arbitrary word, and the user must guess it by alternat
 1) Download all files to single folder
 2) Open CMD
 3) Open program directory in CMD
-4) if you do not have bundler gem enter command:
-`gem install bundler`
-5) Enter command `bundler install`
-6) Enter command `ruby main.rb`
+4) Commands to start:
+    ```
+    gem install bundler
+    bundler install
+    bundle exec ruby main.rb
+    ```
     
    
 
