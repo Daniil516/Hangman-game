@@ -12,7 +12,7 @@ The computer "guesses" an arbitrary word, and the user must guess it by alternat
 4) Commands to start:
     ```
     gem install bundler
-    bundler install
+    bundle install
     bundle exec ruby main.rb
     ```
     
