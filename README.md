@@ -26,7 +26,7 @@ The computer "guesses" an arbitrary word, and the user must guess it by alternat
 1) Open `program_directory/data/words.txt`     
 2) Write your own words in file. (IN UPPER CASE)
 
-# RU:
+# На русском:
 # Виселица (игра)
 
 Приветствую дорогой друг. Здесь ты можешь поиграть в знаменитую интеллектуальную игру - "Виселица". 
@@ -35,7 +35,7 @@ The computer "guesses" an arbitrary word, and the user must guess it by alternat
 
 Компьютер загадывает слово, и пользователь должен угадать его вводя возможные в слове буквы. 
 Всего попыток 7. Важно! Регистр не учитывается при вводе букв.
-## To play:
+## Чтобы начать игру:
 
 -Вы должны иметь на используемом устройстве установленный ruby(гайд по установке - https://rubyrush.ru/steps/setup-ruby). 
 1) Скачай все файлы в одну папку
