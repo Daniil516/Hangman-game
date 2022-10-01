@@ -7,7 +7,7 @@ Hello my dear friend. Here you can play famous intellectual game - Hangman. Wiki
 The computer "guesses" an arbitrary word, and the user must guess it by alternately entering each letter of the word. Total attempts: 7. Important! Letter cases are not taken into account.
 ## To play:
 
--You should have installed ruby on your pc(how to do this - https://www.ruby-lang.org/en/documentation/installation/)
+-You should have installed ruby(version >=2.5.9) on your pc(how to do this - https://www.ruby-lang.org/en/documentation/installation/)
 1) Download all files to single folder
 2) Open CMD
 3) Open program directory in CMD
@@ -23,7 +23,6 @@ The computer "guesses" an arbitrary word, and the user must guess it by alternat
 ## To make the game more interesting:
 
 #### -You can add your own words to game. For this:
-In this game all words to guess are russians. So, add words for your language.
 1) Open `program_directory/data/words.txt`     
 2) Write your own words in file. (IN UPPER CASE)
 
@@ -57,6 +56,7 @@ This game is my study project that I created during [goodprogrammer course](http
 ## Чтобы сделать игру ещё более интересной:
 
 #### -Вы можете добавить новые слова в игру:
+Игра на английском, но вы можете добавить русские слова.
 1) Откройте в текстовом редакторе папку `программная папка/data/words.txt`     
 2) Впишите новые слова в файл. (В верхнем регистре)
 
