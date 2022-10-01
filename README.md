@@ -28,7 +28,7 @@ The computer "guesses" an arbitrary word, and the user must guess it by alternat
 ### P.s
 This game is my study project that I created during [goodprogrammer course](https://goodprogrammer.ru/rails) in third  week of study to repeat OOP
 
-# RUS:
+## RUS:
 # Виселица (игра)
 Приветствую дорогой друг. Здесь ты можешь поиграть в знаменитую интеллектуальную игру - "Виселица". 
 Описание игры на вики - https://clck.ru/JYmTG
