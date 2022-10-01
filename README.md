@@ -1,3 +1,4 @@
+# ENG:
 # Hangman (game)
 
 Here you can play famous intellectual game - Hangman. Wiki description -https://en.wikipedia.org/wiki/Hangman_(game)
