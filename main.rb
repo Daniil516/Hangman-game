@@ -13,7 +13,7 @@ if (Gem.win_platform?)
 end
 
 # 1. Поздороваться
-puts "Всем привет!".colorize(:green)
+puts "Hello there!".colorize(:green)
 
 # 2. Загрузить случайное слово из файла
 word = File.readlines(__dir__ + "/data/words.txt", encoding: "UTF-8", chomp: true).sample
@@ -22,6 +22,7 @@ console_interface = ConsoleInterface.new(game)
 
 # 3. Пока не закончилась игра
 until game.over?
+  system('clear')
   #   3.1. Вывести очередное состояние игры
   console_interface.print_out
   #   3.2. Спросить очередную букву

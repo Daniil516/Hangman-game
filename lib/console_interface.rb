@@ -20,17 +20,17 @@ class ConsoleInterface
   # класса Game (количество ошибок, сколько осталось попыток и т.д.)
   def print_out
     puts <<~END
-      #{("Слово:" + word_to_show).colorize(:light_blue)} 
+      #{("Word:" + word_to_show).colorize(:light_blue)} 
       #{figure.colorize(:yellow)}
-      #{ ("Ошибки" + "(" + @game.errors_made.to_s + "):" + errors_to_show).colorize(:red) } 
+      #{ ("Mistakes" + "(" + @game.errors_made.to_s + "):" + errors_to_show).colorize(:red) } 
       
-      #{("У вас осталось ошибок: " + @game.errors_allowed.to_s).colorize(:red)}
+      #{("You have attempts: " + @game.errors_allowed.to_s).colorize(:red)}
 
     END
     if @game.won?
-      puts "Поздравляем, вы выиграли!"
+      puts "Congratulations, you win!"
     elsif @game.lost?
-      puts "Вы проиграли, загаданное слово: #{@game.word}"
+      puts "You failed, the hidden word: #{@game.word}"
     end
   end
 
@@ -73,7 +73,7 @@ class ConsoleInterface
   # Получает букву из пользовательского ввода, приводит её к верхнему регистру
   # и возвращает её
   def get_input
-    print "Введите следующую букву: ".colorize(:green)
+    print "Enter the next letter: ".colorize(:green)
     letter = gets[0].upcase
     letter
   end
