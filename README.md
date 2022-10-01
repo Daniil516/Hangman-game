@@ -29,6 +29,7 @@ In this game all words to guess are russians. So, add words for your language.
 
 ### P.s
 This game is my study project that I created during [goodprogrammer course](https://goodprogrammer.ru/rails) in third  week of study to repeat OOP
+
 # На русском:
 # Виселица (игра)
 
@@ -58,3 +59,7 @@ This game is my study project that I created during [goodprogrammer course](http
 #### -Вы можете добавить новые слова в игру:
 1) Откройте в текстовом редакторе папку `программная папка/data/words.txt`     
 2) Впишите новые слова в файл. (В верхнем регистре)
+
+
+### P.s
+Эта игра - мой учебный проект, который я создал во время [курса хорошего программиста](https://goodprogrammer.ru/rails) на 3 неделе обучения, чтобы повторить ООП
