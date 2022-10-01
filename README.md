@@ -2,7 +2,7 @@
 # Hangman (game)
 
 Hello my dear friend. Here you can play famous intellectual game - Hangman. Wiki description -https://en.wikipedia.org/wiki/Hangman_(game)
-##Mechanics:
+## Mechanics:
 
 The computer "guesses" an arbitrary word, and the user must guess it by alternately entering each letter of the word. Total attempts: 7. Important! Letter cases are not taken into account.
 ## To play:
@@ -31,7 +31,7 @@ The computer "guesses" an arbitrary word, and the user must guess it by alternat
 
 Приветствую дорогй друг. Здесь ты можешь поиграть в знаменитую интеллектуальную игру - "Виселица". 
 Описание игры на вики - https://clck.ru/JYmTG
-##Механика:
+## Механика:
 
 Компьютер загадывает слово, и пользователь должен угадать его вводя возможные в слове буквы. 
 Всего попыток 7. Важно! Регистр не учитывается при вводе букв.
