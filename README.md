@@ -23,9 +23,12 @@ The computer "guesses" an arbitrary word, and the user must guess it by alternat
 ## To make the game more interesting:
 
 #### -You can add your own words to game. For this:
+In this game all words to guess are russians. So, add words for your language.
 1) Open `program_directory/data/words.txt`     
 2) Write your own words in file. (IN UPPER CASE)
 
+### P.s
+This game is my study project that I created during [goodprogrammer course](https://goodprogrammer.ru/rails) in third  week of study to repeat OOP
 # На русском:
 # Виселица (игра)
 
