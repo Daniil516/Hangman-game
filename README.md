@@ -37,6 +37,7 @@ This game is my study project that I created during [goodprogrammer course](http
 ## Механика:
 Компьютер загадывает слово, и пользователь должен угадать его вводя возможные в слове буквы. 
 Всего попыток 7. Важно! Регистр не учитывается при вводе букв.
+
 ![изображение](https://user-images.githubusercontent.com/83035520/193456220-224a98b7-ec30-4890-8311-b75af9cdf354.png)
 
 ## Чтобы начать игру:
