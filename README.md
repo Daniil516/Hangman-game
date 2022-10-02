@@ -2,8 +2,9 @@
 
 Hello my dear friend. Here you can play famous intellectual game - Hangman. Wiki description -https://en.wikipedia.org/wiki/Hangman_(game)
 ## Mechanics:
-
 The computer "guesses" an arbitrary word, and the user must guess it by alternately entering each letter of the word. Total attempts: 7. Important! Letter cases are not taken into account.
+![изображение](https://user-images.githubusercontent.com/83035520/193456214-86862c1a-f180-496d-b115-afd05eccc655.png)
+
 ## To play:
 
 - You should have installed ruby(version >=2.5.9) on your pc(how to do this - https://www.ruby-lang.org/en/documentation/installation/)
@@ -34,9 +35,10 @@ This game is my study project that I created during [goodprogrammer course](http
 Описание игры на вики - https://clck.ru/JYmTG
 
 ## Механика:
-
 Компьютер загадывает слово, и пользователь должен угадать его вводя возможные в слове буквы. 
 Всего попыток 7. Важно! Регистр не учитывается при вводе букв.
+![изображение](https://user-images.githubusercontent.com/83035520/193456220-224a98b7-ec30-4890-8311-b75af9cdf354.png)
+
 ## Чтобы начать игру:
 
 - Вы должны иметь на используемом устройстве установленный ruby(версия 2.5.9 и выше. Гайд по установке - https://rubyrush.ru/steps/setup-ruby). 
